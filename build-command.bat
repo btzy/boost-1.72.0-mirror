@@ -1,0 +1,1 @@
+.\b2 link=static address-model=32,64 threading=multi runtime-link=shared variant=debug,release toolset=msvc stage -j 4 define=WINVER=0x0A00 define=_WIN32_WINNT=0x0A00 define=BOOST_NO_TYPEID define=BOOST_NO_RTTI
