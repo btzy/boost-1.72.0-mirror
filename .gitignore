@@ -3,3 +3,5 @@ stage/
 b2.exe
 bootstrap.log
 project-config.jam
+*.exe
+*.obj
